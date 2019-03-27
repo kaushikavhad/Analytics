@@ -1,3 +1,3 @@
-# Analytics
+# Analytics Repository
 AI, NLP, OpenCV, DL, ML, Hadoop, Bigdata and Analytics
-Added on 27 MAr 2019
+Added on 27 Mar 2019
